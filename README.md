@@ -4,4 +4,4 @@
 
 The task is to create a multi-outcome model to predict two separate target variables: 1) ADHD (1=yes or 0=no) and 2) female (1=yes or 0=no).
 
-As a result the accuracy score was 69%, beating more than 200 partcipants within the competition
+As a result the accuracy score was 69.5%, beating more than 200 partcipants within the competition
